@@ -1,0 +1,11 @@
+C:\Users\Mateusz Czyzewski\Documents\Programs\temp\RunLengthEncoder\bin\Debug\netcoreapp3.0\RunLengthEncoder.exe
+C:\Users\Mateusz Czyzewski\Documents\Programs\temp\RunLengthEncoder\bin\Debug\netcoreapp3.0\RunLengthEncoder.deps.json
+C:\Users\Mateusz Czyzewski\Documents\Programs\temp\RunLengthEncoder\bin\Debug\netcoreapp3.0\RunLengthEncoder.runtimeconfig.json
+C:\Users\Mateusz Czyzewski\Documents\Programs\temp\RunLengthEncoder\bin\Debug\netcoreapp3.0\RunLengthEncoder.runtimeconfig.dev.json
+C:\Users\Mateusz Czyzewski\Documents\Programs\temp\RunLengthEncoder\bin\Debug\netcoreapp3.0\RunLengthEncoder.dll
+C:\Users\Mateusz Czyzewski\Documents\Programs\temp\RunLengthEncoder\bin\Debug\netcoreapp3.0\RunLengthEncoder.pdb
+C:\Users\Mateusz Czyzewski\Documents\Programs\temp\RunLengthEncoder\obj\Debug\netcoreapp3.0\RunLengthEncoder.csprojAssemblyReference.cache
+C:\Users\Mateusz Czyzewski\Documents\Programs\temp\RunLengthEncoder\obj\Debug\netcoreapp3.0\RunLengthEncoder.AssemblyInfoInputs.cache
+C:\Users\Mateusz Czyzewski\Documents\Programs\temp\RunLengthEncoder\obj\Debug\netcoreapp3.0\RunLengthEncoder.AssemblyInfo.cs
+C:\Users\Mateusz Czyzewski\Documents\Programs\temp\RunLengthEncoder\obj\Debug\netcoreapp3.0\RunLengthEncoder.dll
+C:\Users\Mateusz Czyzewski\Documents\Programs\temp\RunLengthEncoder\obj\Debug\netcoreapp3.0\RunLengthEncoder.pdb
